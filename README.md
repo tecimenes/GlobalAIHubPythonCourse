@@ -1,4 +1,4 @@
-# GAIH Python Course Enes Tecimen Repo
+# GAIH Python Course Repo
 ![](img/newlogo.png)
 
 **Course Date:** 08.03.2021
