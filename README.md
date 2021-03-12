@@ -1,7 +1,7 @@
 # GAIH Student Repo 
 ![](img/newlogo.png)
 
-**Course Date:** DD.MM.YYYY  
+**Course Date:** 08.03.2021  
 **Name:** Enes  
 **Surname:** Tecimen  
 **Email:** enestecimen@gmail.com  
