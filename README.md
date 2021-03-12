@@ -1,7 +1,7 @@
 # GAIH Python Course Enes Tecimen Repo
 ![](img/newlogo.png)
 
-**Course Date:** 08.03.2021-12.03.2021 
+**Course Date:** 08.03.2021
 **Name:** Enes  
 **Surname:** Tecimen  
 **Email:** enestecimen@gmail.com  
