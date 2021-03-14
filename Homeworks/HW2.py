@@ -2,13 +2,9 @@
 # Gerçek kişileri temsil etmemektedir.
 
 CV1 = {"name" :"Koray", "sname":"Adıvar", "mail":"korayvar@mail.com", "age":25, "address":"İnegöl/Bursa", "title":"Kimya Mühendisi", "experience":"2 yıl.","languages" : "İngilizce, Almanca","IT" : "Python, Java, C"}
-
 CV2 = {"name":"Sinem", "sname":"Orbay", "mail":"sinbay@mail.com", "age":19, "address":"Armutlu/Yalova", "title":"Öğrenci", "experience":"Yok", "languages" : "İngilizce", "IT" : "HTML, CSS"}
-
 CV3 = {"name":"Ece", "sname":"Durak", "mail":"ecedrak@mail.com", "age":34, "address":"Edremit/Balıkesir", "title":"Kimya Teknikeri", "experience":"9 yıl", "languages" : "İngilizce", "IT" : "Chemcad, Matlab"}
-
 CV4 = {"name":"Armağan", "sname":"Akyüz", "mail":"armayuz@kmail.com", "age":28, "address":"Gemlik/Bursa", "title":"Metalurji Mühendisi", "experience":"5 yıl", "languages" : "İngilizce, Rusça", "IT" : "Python, C#"}
-
 CV5 = {"name":"Ebru", "sname":"Ozansoy", "mail":"ebrusoy@mail.com", "age":23, "address":"Bozcaada/Çanakkale", "title":"Kimyager", "experience":"6 ay", "languages" : "Yok", "IT" : "MS Office"}
 
 def CVprint(ad, soyad, email, yas, adres, unvan, deneyim, ydil, bilisim):
